@@ -78,6 +78,7 @@ p{
   display: flex;
   justify-content: end;
   align-items: end;
+  
   background: rgba(40, 60, 70, 0.4);
   padding: 0;
   overflow: hidden;
